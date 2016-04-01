@@ -83,5 +83,10 @@ var VIP_USERS = [
         name: "Phus Lu",
         username: "phuslu",
         latLang: [32.0568391,118.7767715]
+    },
+    {   
+        name:"Karma",
+        username: "karmalove",
+        latLang: [22.9700254,113.7541473]
     }
 ];
